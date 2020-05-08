@@ -67,7 +67,7 @@ Spring Security
 Kubernetes
 CoreMedia
 
-[Linkedin] (https://www.linkedin.com/in/pulin-gupta/)
+[Linkedin](https://www.linkedin.com/in/pulin-gupta/)
 
-[Github] (https://github.com/pulingupta)
+[Github](https://github.com/pulingupta)
 
