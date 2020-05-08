@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Who I am
 
-You can use the [editor on GitHub](https://github.com/pulingupta/profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A problem solver and unconventional thinker.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What I do
 
-### Markdown
+Drawing systems with new technology stack is my hobby, solving complex problems into minor whiteboard stickies is something I feel delighted with. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I work for frontend, backend, security and cloud solutions.
 
-```markdown
-Syntax highlighted code block
+### What I am expert at
 
-# Header 1
-## Header 2
-### Header 3
+I am pretty good at architecture and planning move from legacy to new stack in a typical old code running organization. I have worked on digital solutions like CMS, Ecommerce, Web Application Development, also I do have good insight on backend environment.
 
-- Bulleted
-- List
+I am also quite passionate to work in devops, already have worked on openshift, google cloud kubernetes engine and aws.
 
-1. Numbered
-2. List
+### What I am up to
 
-**Bold** and _Italic_ and `Code` text
+I am quite interested in finding optimum solution for documenting microservices these days. I am also very interested to work on cloud native tools.
 
-[Link](url) and ![Image](src)
-```
+### Skills and Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+can be found from here -> https://www.linkedin.com/in/pulin-gupta/
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pulingupta/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
