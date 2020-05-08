@@ -21,5 +21,6 @@ I am quite interested in finding optimum solution for documenting microservices 
 ### Skills and Contact
 
 can be found from here -> https://www.linkedin.com/in/pulin-gupta/
-some code -> [link]https://github.com/pulingupta
+
+some code -> https://github.com/pulingupta
 
