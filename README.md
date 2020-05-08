@@ -20,7 +20,54 @@ I am quite interested in finding optimum solution for documenting microservices 
 
 ### Skills and Contact
 
-can be found from here -> https://www.linkedin.com/in/pulin-gupta/
+Industry Knowledge
 
-some code -> https://github.com/pulingupta
+Web Content Management
+Front-end Development
+Devops
+Communications Branding
+Digitalization Tools and Softwares
+Design System
+
+Tools & Technologies
+Frameworks
+Spring Framework
+
+Languages
+Java
+JavaScript
+Scala
+Python
+Ruby
+
+Cloud Technologies
+Openshift
+Google Cloud Platform (GCP)
+Microsoft Azure
+Amazon Web Services (AWS)
+
+Security Stack
+JSON Web Token (JWT)
+Keycloak
+
+Front End Libraries
+Material-UI
+
+Other Skills 
+
+Solutions Design
+Solution Implementation
+DevOps
+File Handling
+J2EE Web Services
+RESTful architecture
+Riak
+Microservices
+Spring Security
+Kubernetes
+CoreMedia
+
+[Linkedin] (https://www.linkedin.com/in/pulin-gupta/)
+
+[Github] (https://github.com/pulingupta)
 
