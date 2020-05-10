@@ -1,6 +1,10 @@
 ## Who I am
 
-A problem solver and unconventional thinker.
+A problem solver and unconventional thinker. 
+
+[Linkedin](https://www.linkedin.com/in/pulin-gupta/)
+
+[Github](https://github.com/pulingupta)
 
 ### What I do
 
