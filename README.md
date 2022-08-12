@@ -18,13 +18,11 @@ I am pretty good at architecture (both Cloud and Software) and modernization, pl
 
 My work includes cloud architecture for Azure, designing and architecting Landing Zones recommended by Azure. I also work on various automation activitites. I use laoguages like terraform, bicep and tools like github actions, azure devops etc
 
-Recentely I have been tending towards use of sdks provided by cloud platforms instead of using terraform or others, so I am playing around those to build a better product and offer the use in my projects.
-
-I am also quite passionate to work in azure, devops, already have worked on openshift, google cloud kubernetes engine and aws.
+I am also quite passionate to work in azure kubenetes, devops withgithub actions advanced plugins, already have worked on openshift, google cloud kubernetes engine and aws.
 
 ### What I am up to
-
-I am quite interested in finding optimum solution for documenting microservices these days. I am also very interested to work on cloud native tools.
+Recentely I have been tending towards use of sdks provided by cloud platforms instead of using terraform or others, so I am playing around those to build a better product and offer the use in my projects.
+I am also very interested to work on cloud native tools.
 
 ### Skills and Contact
 
