@@ -30,61 +30,64 @@ I am quite interested in finding optimum solution for documenting microservices 
 
 Industry Knowledge
 
-Azure Cloud Architeture
-Modernization
-Programmer
-Full Stack Development
-Devops
-Communications Branding
-Web Content Management
-Digitalization Tools and Softwares
-Design System
+- Azure Cloud Architecture
+- Modernization
+- Programmer
+- Full Stack Development
+- Devops
+- Communications Branding
+- Web Content Management
+- Digitalization Tools and Softwares
+- Design System
 
 Tools & Technologies
-Github Actions
-Azure Devops
+- Github Actions
+- Azure Devops
 
 Frameworks
-CAF- Azure
-Spring Framework
+- CAF- Azure
+- Spring Framework
 
 Languages
-Terraform
-Bicep
-ARM
-Java
-JavaScript
-Scala
-Python
-Ruby
+- Terraform
+- Bicep
+- ARM
+- Java
+- JavaScript
+- Scala
+- Python
+- Ruby
 
 Cloud Technologies
-Microsoft Azure
-Openshift
-Google Cloud Platform (GCP)
-Amazon Web Services (AWS)
+- Microsoft Azure
+- Azure Kubernetes
+- Openshift
+- Google Cloud Platform (GCP)
+- Amazon Web Services (AWS)
 
 Security Stack
-Azure Defender
-JSON Web Token (JWT)
-Keycloak
+- Azure Defender
+- JSON Web Token (JWT)
+- Keycloak
 
 Front End Libraries
-Material-UI
+- Material-UI
 
 Other Skills 
 
-Solutions Design
-Solution Implementation
-DevOps
-File Handling
-J2EE Web Services
-RESTful architecture
-Riak
-Microservices
-Spring Security
-Kubernetes
-CoreMedia
+- Solutions Design
+- Solution Implementation
+- DevOps
+- File Handling Solutions - Cloud and onprem
+- J2EE Web Services
+- RESTful architecture
+
+NOSQL 
+- Riak
+
+APIS
+- Microservices
+- Spring Security
 
 [Linkedin](https://www.linkedin.com/in/pulin-gupta/)
 
