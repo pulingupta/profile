@@ -14,9 +14,13 @@ I work for frontend, backend, security and cloud solutions.
 
 ### What I am expert at
 
-I am pretty good at architecture and planning move from legacy to new stack in a typical old code running organization. I have worked on digital solutions like CMS, Ecommerce, Web Application Development, also I do have good insight on backend environment.
+I am pretty good at architecture and modernization, planning move from legacy to new stack in a typical old code running organization. I have worked on digital solutions like CMS, Ecommerce, Web Application Development, also I do have good insight on backend environment.
 
-I am also quite passionate to work in devops, already have worked on openshift, google cloud kubernetes engine and aws.
+My work includes cloud architecture for Azure, designing and architecting Landing Zones recommended by Azure. I also work on various automation activitites. I use laoguages like terraform, bicep and tools like github actions, azure devops etc
+
+Recentely I have been tending towards use of sdks provided by cloud platforms instead of using terraform or others, so I am playing around those to build a better product and offer the use in my projects.
+
+I am also quite passionate to work in azure, devops, already have worked on openshift, google cloud kubernetes engine and aws.
 
 ### What I am up to
 
@@ -26,18 +30,25 @@ I am quite interested in finding optimum solution for documenting microservices 
 
 Industry Knowledge
 
-Web Content Management
-Front-end Development
+Azure Cloud Architeture
+Modernization
+Programmer
+Full Stack Development
 Devops
 Communications Branding
+Web Content Management
 Digitalization Tools and Softwares
 Design System
 
 Tools & Technologies
 Frameworks
+CAF- Azure
 Spring Framework
 
 Languages
+Terraform
+Bicep
+ARM
 Java
 JavaScript
 Scala
@@ -45,12 +56,13 @@ Python
 Ruby
 
 Cloud Technologies
+Microsoft Azure
 Openshift
 Google Cloud Platform (GCP)
-Microsoft Azure
 Amazon Web Services (AWS)
 
 Security Stack
+Azure Defender
 JSON Web Token (JWT)
 Keycloak
 
