@@ -41,6 +41,9 @@ Digitalization Tools and Softwares
 Design System
 
 Tools & Technologies
+Github Actions
+Azure Devops
+
 Frameworks
 CAF- Azure
 Spring Framework
