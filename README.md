@@ -14,7 +14,7 @@ I work for frontend, backend, security and cloud solutions.
 
 ### What I am expert at
 
-I am pretty good at architecture and modernization, planning move from legacy to new stack in a typical old code running organization. I have worked on digital solutions like CMS, Ecommerce, Web Application Development, also I do have good insight on backend environment.
+I am pretty good at architecture (both Cloud and Software) and modernization, planning move from legacy to new stack in a typical old code running organization. I have worked on digital solutions like CMS, Ecommerce, Web Application Development, also I do have good insight on backend environment.
 
 My work includes cloud architecture for Azure, designing and architecting Landing Zones recommended by Azure. I also work on various automation activitites. I use laoguages like terraform, bicep and tools like github actions, azure devops etc
 
