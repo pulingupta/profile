@@ -1,4 +1,4 @@
-## Who I am
+## Pulin Gupta
 
 A problem solver and unconventional thinker. 
 
