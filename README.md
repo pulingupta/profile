@@ -29,6 +29,7 @@ I am also very interested to work on cloud native tools.
 Industry Knowledge
 
 - Azure Cloud Architecture
+- GCP
 - Modernization
 - Programmer
 - Full Stack Development
