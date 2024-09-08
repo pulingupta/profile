@@ -1,0 +1,315 @@
+{
+  "basics": {
+    "name": "Pulin Gupta",
+    "label": "Cloud Solution Architect",
+    "image": "",
+    "email": "pulinxx@gmail.com",
+    "phone": "",
+    "url": "https://pulingupta.github.io/",
+    "summary": "Cloud Solution Architect",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Espoo",
+      "countryCode": "Finland",
+      "region": "Uusima"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/pulingupta"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "TietoEvry OY",
+      "position": "Senior Cloud Architect",
+      "url": "",
+      "startDate": "Sept 2020",
+      "endDate": "Present",
+      "summary": "Design and Development of Cloud infratructure, Devops, IaC specialist",
+      "highlights": ["CAF","Networking", "Finops", "Azure Monitoring", "Azure policy"]
+    },
+    {
+      "name": "Capgemini Finland OY",
+      "position": "Solution Architect",
+      "url": "",
+      "startDate": "Sept 2019",
+      "endDate": "Aug 2020",
+      "summary": "Mordenization Architect and Full Stack developer, Web Application Development",
+      "highlights": ["REST","Typescript", "Authorization", "Micrososervices", "Web Application Development"]
+    },
+    {
+      "name": "Tata Consultancy Services OYJ",
+      "position": "Lead Developer/ Architect",
+      "url": "",
+      "startDate": "May 2010",
+      "endDate": "Aug 2019",
+      "summary": " Architecture and Development of Onprem IBM Openshift (container) based Website publishing software.",
+      "highlights": ["NoSql DB RIAK","JS", "ReactJs", "NodeJS", "maps.googleapi js","SpringBoot"]
+    },
+    {
+      "name": "Hewlett Packard",
+      "position": "Developer",
+      "url": "",
+      "startDate": "July 2006",
+      "endDate": "April 2010",
+      "summary": " Software Development of continuous configuration tracking application on SAN based Windows Devices. Research Application Development of digitalizing Universities Books and publishing online read platform with improvised covers.",
+      "highlights": ["JAVA","Java threads", "JNI", "Windows DLLs", "SQL","REST"]
+    }
+  ],
+  "volunteer": [
+  ],
+  "education": [
+    {
+      "institution": "UP Technical University",
+      "location": "India",
+      "url": "https://aktu.ac.in/",
+      "area": "Information Technology",
+      "studyType": "BTech",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Architect Associate",
+      "date": "",
+      "issuer": "AWS",
+      "url": "",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Azure AZ-900",
+      "date": "",
+      "issuer": "Azure",
+      "url": "",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Certified Java Professional",
+      "date": "",
+      "issuer": "Sun Java (Oracle Java) ",
+      "url": "",
+      "icon": "fa-solid fa-envelope"
+    }
+  ],
+  "publications": [ 
+    {
+      "name": "Restricting Location based User Access with Azure Conditional Access Policies",
+      "publisher": "LinkedIn",
+      "releaseDate": "2023-02-05",
+      "url": "https://www.linkedin.com/pulse/restricting-location-based-user-access-azure-policies-pulin-gupta?trackingId=3YcMkm9Cbcg3VNliVzXgNg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BiyAivyZETciZPftK3yx49Q%3D%3D",
+      "summary": "Practical instructions on how you can restrict Azure User Access based on location"
+    },
+    {
+      "name": "Data Driven Cloud Design",
+      "publisher": "Medium",
+      "releaseDate": "2021-04-06",
+      "url": "https://pulingupta.medium.com/data-driven-cloud-design-62ad68cb7c9a",
+      "summary": "Migrating Application from onprem to cloud shoudnt only be about hardware, cpu and memory but about actual applcation use and value"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Azure",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Cloud Adaption Framework",
+        "Networking",
+        "Infrastructure Architecture",
+        "Firewall",
+        "Application Gateway",
+        "Workbooks and Finops",
+        "APIM",
+        "Azure Policy",
+        "Azure Devops",
+        "Storage Solution",
+        "Azure Graph Query",
+        "Azure SDK",
+        "Terraform",
+        "Bicep",
+        "Azure Functions",
+        "Log Analytics",
+        "Azure App Services"
+      ]
+    },
+    {
+      "name": "GCP",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Cloud Adaption Framework",
+        "Networking",
+        "Infrastructure Architecture",
+        "Private Networking",
+        "API Services",
+        "Cloud SQL",
+        "Compute Instance",
+        "Github Actions",
+        "Workload Federated Identity",
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Full Stack Technologies",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Javascript Frameworks",
+        "NodeJS",
+        "Ruby",
+        "Scala",
+        "Java",
+        "Microservices",
+        "REST APIs",
+        "NOSQL Database",
+        "SASS",
+        "Design System",
+        "HTML"
+      ]
+    },
+    {
+      "name": "CI CD Technologies",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Puppet",
+        "YAML",
+        "Github Actions",
+        "Docker",
+        "Containers",
+        "Openshift",
+        "Images",
+        "Artifactory",
+        "App Dynamics",
+        "Jenkins"
+
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Artificial Intelligence",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Generative AI",
+        "ChatGPT",
+        "Gemini"
+      ]
+    },
+    {
+      "name": "Hobbies",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Biking",
+        "Running",
+        "Music"
+      ]
+    }
+  ],
+  "references": [
+   
+  ],
+  "projects": [
+    {
+      "name": "Azure Landing Zone with Multiple Enterprise Customers",
+      "summary": "Design and deploy Azure Landing zone on multiple enterprise customers",
+      "highlights": ["Cloud Adaption Framework", "Networking and Firewall", "Azure Policy", "Azure IAM", "Finops", "Azure Graph Queries", "Azure Workbook", "Azure Devops (CI/CD)", "Github Actions(CI/CD)", "Terraform", "Bicep"],
+      "startDate": "Sept 2020",
+      "endDate": "Present",
+      "url": ""
+    },
+    {
+      "name": "Cameo with GCP",
+      "summary": "Design and deploy Cameyo implementation with GCP for a Health Care Customer",
+      "highlights": ["Application Virtualization", "GCP Projects", "GCP API Services", "Workload Indentity Federation", "Private Networking", "Cloud Sql", "Compute Instances", "Terraform", "Github Actions(CI/CD)"],
+      "startDate": "Dec 2023",
+      "endDate": "Feb 2024",
+      "url": ""
+    },
+    {
+      "name": "Storage Archive",
+      "summary": "Design and deploy File Archiving Solution for Forestry customers",
+      "highlights": ["Azure File Sync", "Private Endpoints", "Cloud Endpoints", "Storage Account", "Azure File Shares", "Backups", "Cloud Tiering"],
+      "startDate": "Dec 2023",
+      "endDate": "Feb 2024",
+      "url": ""
+    },
+    {
+      "name": "Load Balancer HTTPS Migration for Forestry Customer",
+      "summary": "Migration of onprem application to TLS/SSL based Azure Application",
+      "highlights": ["Azure Application Gateway", "Azure Keyvaults", "Virtual Machine", "Azure Backup"],
+      "startDate": "Dec 2023",
+      "endDate": "Feb 2024",
+      "url": ""
+    },
+    {
+      "name": "Application Modernization for Enterprise Shipping Customer",
+      "summary": "Modernization of expensive onprem legacy application to low cost modern Azure Native App",
+      "highlights": ["Azure App Services", "Azure SQL DB", "Docker", "Container", "Azure Backup", "Java", "DB Migration"],
+      "startDate": "Dec 2023",
+      "endDate": "Feb 2024",
+      "url": ""
+    },
+    {
+      "name": "Design System Development and Application Development",
+      "summary": "Design and Development of design system with Typescript and Material UI based components",
+      "highlights": ["Typescript", "NodeJS", "SCSS", "Material UI", "JS Libraries", "GitLab", "GCP", "Microservices", "SpringBoot", "Spring Security"],
+      "startDate": "Dec 2023",
+      "endDate": "Feb 2024",
+      "url": ""
+    },
+    {
+      "name": "Content Management System",
+      "summary": "Design and Development of content managements using modern technologies and opensourced tools",
+      "highlights": ["Scala", "NodeJS", "Ruby", "ReactJS", "Nginx Web Servers", "Varnish Cache", "No SQL DB", "Java", "JS Frameworks"],
+      "startDate": "Dec 2023",
+      "endDate": "Feb 2024",
+      "url": ""
+    },
+    {
+      "name": "Employee Referral Module for Consumer Electronics Giant",
+      "summary": "Design and Development of Employee Referral module in recruitment system",
+      "highlights": ["Java/J2ee", "Coherence Cache", "Jboss Queue/Topic", "Scalable Subscriber Software", "Oracle DB", "File Management", "JPA/Hibernate"],
+      "startDate": "Dec 2023",
+      "endDate": "Feb 2024",
+      "url": ""
+    },
+    {
+      "name": "Online Book Store",
+      "summary": "Development of Online book Store & Development of software for Conversion of old books to new",
+      "highlights": ["Java/J2ee", "REST", "Adobe Flex"],
+      "startDate": "Dec 2023",
+      "endDate": "Feb 2024",
+      "url": ""
+    },
+    {
+      "name": "Storage Hardware Configuration Tracker Software",
+      "summary": "Development of software responsible to monitor storage hardware configuration changes",
+      "highlights": ["Java", "Java threads", "JNI", "Windows API's"],
+      "startDate": "Dec 2023",
+      "endDate": "Feb 2024",
+      "url": ""
+    }
+  ]
+}
